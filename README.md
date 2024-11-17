@@ -39,7 +39,12 @@ Bilgileri alınır ve saldırganın cihazına kayıt eder.
    cd HiLog
    python3 termux_install.py
    php -S localhost:8080
+
 ```
+
+
+https://github.com/user-attachments/assets/57c08fb9-49ab-4c39-a429-2eb4eaddd0aa
+
 
 ### Windows
    ```bash
