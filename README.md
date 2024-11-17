@@ -10,9 +10,9 @@ local host da bir site başlatır daha sonrasında bunu ngrok gibi araşlarla pu
 ![image](https://github.com/user-attachments/assets/10274f8b-d641-4f26-a31e-56587879b3a2)
 
 
-siteye girince ipv4 ve ipv6 bilgilerini alır.
+Siteye girince ipv4 ve ipv6 bilgilerini alır.
 
-giriş butonuna basınca bilgisayarda kayılı olan 
+Giriş butonuna basınca bilgisayarda kayılı olan :
 
 Login Data: Tarayıcıda kaydedilmiş olan şifreler ve oturum bilgileri.
 
@@ -20,8 +20,10 @@ Web Data: Tarayıcının siteye özgü çeşitli verileri (örneğin, formlar, a
 
 Network\Cookies: Tarayıcıdaki çerezler.
 
-History: Tarayıcının ziyaret ettiği web sitelerinin geçmişi
+History: Tarayıcının ziyaret ettiği web sitelerinin geçmişi.
 
+Bilgileri alınır ve saldırganın cihazına kayıt eder.
+(.txt dosyalarını bir veri tabanı gibi kayıt eder.)
 ## İndirme & Kurma
 
 ### Linux
